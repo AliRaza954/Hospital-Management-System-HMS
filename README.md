@@ -1,4 +1,4 @@
-# "Hospital-Management-System-HMS"
+# "Hospital Management System (HMS)"
 <div></div>
 
 ## A simple and full scale Hospital Management and Information Sytem, introduced with lots of features.
